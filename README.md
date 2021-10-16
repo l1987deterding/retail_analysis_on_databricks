@@ -12,17 +12,21 @@
 
 	* How many orders have been shipped to each country?
 	Germany and USA have had the most orders shipped. 
-	<img src='https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/countries_shipped.png?raw=true' height='150px'>
+	<img src='https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/countries_shipped.png?raw=true' height='200px'>
 
 * For each product, list its product ID, product name, and the company name.
 
 	* Which 5 countries have the heaviest shipments, on average?
+	Australia, Ireland, and USA have the top 3 average shipment. 
+	<img src='https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/average_shipped_by_country.png?raw=true' height='200px'>
 
 	* Which 10 companies have placed the most orders? List the contact name of each company.
+	<img src='https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/top_customer_contacts.png?raw=true' height='200px'>
 
 * Sort the customers by total amount spent on orders in descending order.
 
 * Sort customers with a total spending greater than 20,000 in descending order.
+<img src='https://github.com/kevinclee26/retail_analysis_on_databricks/blob/main/images/total_spending_by_customer.png?raw=true' height='200px'>
 
 * Sort the employees by the number of orders they sold in descending order.
 
@@ -32,8 +36,7 @@
 
 * List the products with the highest level of discount in descending order.
 
-
-This project is developed with (databricks)[https://databricks.com/] and (Apache Spark)[https://spark.apache.org/]
+This project is developed with [databricks](https://databricks.com/) and [Apache Spark](https://spark.apache.org/)
 
 # Data Attribution
 Data Used in This Analysis is Provided by 2U. You can acquire the data using below links: 
